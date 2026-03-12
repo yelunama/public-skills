@@ -2,7 +2,7 @@
 
 English
 
-This repository is a public collection point for reusable Codex skills and shared maintenance standards.
+This repository is a public collection point for reusabl skills and shared maintenance standards.
 
 Suggested GitHub repository:
 
